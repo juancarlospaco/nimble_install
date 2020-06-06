@@ -5,6 +5,7 @@
 # Use
 
 Uses PIP `--install-option=`, there you can pass [Nim](http://nim-lang.org) packages separated by comma.
+You can install Nimpy directly from PIP.
 
 ```console
 $ pip install nimble_install --install-option="--nimble=contra"
