@@ -1,4 +1,6 @@
 # Nimble integration for Python PIP
+  
+![](py-nim.png)
 
 - Install [Nim](http://nim-lang.org) packages directly from [Python PIP](https://pypi.org/project/nimble-install). https://pypi.org/project/nimble-install
 
