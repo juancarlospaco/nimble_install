@@ -2,9 +2,19 @@
 
 - Install [Nim](http://nim-lang.org) packages directly from [Python PIP](https://pypi.org/project/nimble-install). https://pypi.org/project/nimble-install
 
+![](https://img.shields.io/github/languages/top/juancarlospaco/nimble_install?style=for-the-badge)
+![](https://img.shields.io/github/stars/juancarlospaco/nimble_install?style=for-the-badge "Star faster-than-requests on GitHub!")
+![](https://img.shields.io/maintenance/yes/2020?style=for-the-badge "2020")
+![](https://img.shields.io/github/languages/code-size/juancarlospaco/nimble_install?style=for-the-badge)
+![](https://img.shields.io/github/issues-raw/juancarlospaco/nimble_install?style=for-the-badge "Bugs")
+![](https://img.shields.io/github/last-commit/juancarlospaco/nimble_install?style=for-the-badge "Commits")
+
+
 # Use
 
-Uses PIP `--install-option=`, there you can pass [Nim](http://nim-lang.org) packages separated by comma.
+Uses [Python PIP](https://pypi.org/project/nimble-install) `--install-option=`, 
+there you can pass [Nim](http://nim-lang.org) packages separated by comma.
+You can install [Frontend packages](https://mildred.github.io/nclearseam) to use with a Python Backend directly from PIP.
 You can install [Nimpy](https://github.com/yglukhov/nimpy) directly from PIP.
 
 ```console
