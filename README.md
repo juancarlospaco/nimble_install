@@ -54,7 +54,7 @@ pip install nimble_install --install-option="--nimble=compiler"
 
 # More Info
 
-- [**For Python Developers.**](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers#table-of-contents)
+- [**For Python Developers.**](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers#table-of-contents) :snake: :heart:
 
 
 # Requisites
