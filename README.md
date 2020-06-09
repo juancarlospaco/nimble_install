@@ -14,6 +14,7 @@
 
 Uses [Python PIP](https://pypi.org/project/nimble-install) `--install-option=`, 
 there you can pass [Nim](http://nim-lang.org) packages separated by comma.
+
 You can install [Frontend packages](https://mildred.github.io/nclearseam) to use with a Python Backend directly from PIP.
 You can install [Nimpy](https://github.com/yglukhov/nimpy) directly from PIP.
 
@@ -51,11 +52,19 @@ pip install nimble_install --install-option="--nimble=compiler"
 ```
 
 
+# More Info
+
+- [**For Python Developers.**](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers#table-of-contents)
+
+
 # Requisites
 
 - [Nim](http://nim-lang.org)
 
 
-# More Info
+# Extras
 
-- [**For Python Developers.**](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers#table-of-contents)
+- https://github.com/juancarlospaco/faster-than-requests#faster-than-requests
+- https://github.com/juancarlospaco/faster-than-csv#faster-than-csv
+- https://github.com/juancarlospaco/faster-than-walk#faster-than-walk
+- https://github.com/juancarlospaco/choosenim_install
